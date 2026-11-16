@@ -6,8 +6,11 @@ Governor and House). Trading happens in SUSQies, the competition's virtual
 currency. The bot scans the order books for mispricings between the two
 parties of a race and uses Kalshi prices as an external fair-value reference.
 
-**Result:** about 3,000 SUSQies profit from 519 trades in 57 races
-(4 to 7 October 2026), see [`trades.csv`](trades.csv).
+**Final result:** rank **100 of 1,969** traders (top 5.1 %) with
+**+53.3k SUSQies** profit and a final balance of 153,253 SUSQies.
+Of the 541 trades on the account, the 519 placed by the bot scripts
+(4 to 7 October 2026, 57 races) are logged in [`trades.csv`](trades.csv).
+The competition ran from 1 October to 4 November 2026.
 
 ## Market structure
 
