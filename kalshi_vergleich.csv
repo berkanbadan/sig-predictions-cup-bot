@@ -1,0 +1,229 @@
+rennen,partei,sig_bid,sig_ask,kalshi_bid,kalshi_ask,abweichung,signal
+Rhode Island Senate,Republican Party,0.13,0.135,0.007,0.01,0.124,NO auf SIG billiger um 0.120
+Connecticut Governor,Democratic Party,0.845,0.85,0.955,0.979,-0.11950000000000005,YES auf SIG billiger um 0.105
+Rhode Island Senate,Democratic Party,0.87,0.875,0.988,0.993,-0.11799999999999988,YES auf SIG billiger um 0.113
+Tennessee Governor,Republican Party,0.82,0.825,0.932,0.946,-0.11650000000000005,YES auf SIG billiger um 0.107
+New Hampshire Governor,Democratic Party,0.155,0.17,0.031,0.07,0.112,NO auf SIG billiger um 0.085
+Massachusetts Governor,Democratic Party,0.845,0.85,0.953,0.958,-0.1080000000000001,YES auf SIG billiger um 0.103
+Rhode Island Governor,Democratic Party,0.86,0.865,0.955,0.979,-0.10449999999999993,YES auf SIG billiger um 0.090
+Rhode Island Governor,Republican Party,0.12,0.13,0.008,0.035,0.1035,NO auf SIG billiger um 0.085
+New Mexico Senate,Republican Party,0.115,0.12,0.011,0.019,0.1025,NO auf SIG billiger um 0.096
+Pennsylvania Governor,Republican Party,0.12,0.125,0.022,0.026,0.0985,NO auf SIG billiger um 0.094
+Oklahoma Senate,Democratic Party,0.115,0.125,0.022,0.024,0.097,NO auf SIG billiger um 0.091
+Arkansas Governor,Republican Party,0.86,0.865,0.935,0.982,-0.09599999999999997,YES auf SIG billiger um 0.070
+Montana Senate,Democratic Party,0.1,0.105,0.005,0.01,0.095,NO auf SIG billiger um 0.090
+Arkansas Senate,Democratic Party,0.16,0.17,0.065,0.076,0.0945,NO auf SIG billiger um 0.084
+Massachusetts Governor,Republican Party,0.14,0.145,0.044,0.053,0.09400000000000001,NO auf SIG billiger um 0.087
+FL-20 House race,Democratic Party,0.875,0.88,0.965,0.975,-0.09250000000000003,YES auf SIG billiger um 0.085
+Georgia Senate,Republican Party,0.13,0.14,0.041,0.045,0.09200000000000001,NO auf SIG billiger um 0.085
+Arkansas Governor,Democratic Party,0.125,0.13,0.015,0.056,0.092,NO auf SIG billiger um 0.069
+North Carolina Senate,Republican Party,0.14,0.145,0.05,0.053,0.09100000000000001,NO auf SIG billiger um 0.087
+WA-03 House race,Republican Party,0.19,0.2,0.1,0.11,0.09,NO auf SIG billiger um 0.080
+Wyoming Senate,Democratic Party,0.11,0.115,0.024,0.026,0.0875,NO auf SIG billiger um 0.084
+Connecticut Governor,Republican Party,0.12,0.125,0.029,0.045,0.08549999999999999,NO auf SIG billiger um 0.075
+West Virginia Senate,Republican Party,0.89,0.895,0.972,0.984,-0.08549999999999991,YES auf SIG billiger um 0.077
+FL-20 House race,Republican Party,0.105,0.11,0.013,0.035,0.08349999999999999,NO auf SIG billiger um 0.070
+Delaware Senate,Republican Party,0.09,0.095,0.008,0.011,0.083,NO auf SIG billiger um 0.079
+Oklahoma Governor,Democratic Party,0.16,0.17,0.08,0.085,0.0825,NO auf SIG billiger um 0.075
+Wyoming Senate,Republican Party,0.89,0.895,0.974,0.975,-0.08199999999999985,YES auf SIG billiger um 0.079
+Virginia Senate,Republican Party,0.09,0.095,0.004,0.019,0.081,NO auf SIG billiger um 0.071
+South Dakota Senate,Democratic Party,0.08,0.085,0.001,0.002,0.081,NO auf SIG billiger um 0.078
+Louisiana Senate,Democratic Party,0.11,0.125,0.012,0.063,0.07999999999999999,NO auf SIG billiger um 0.047
+South Carolina Governor,Republican Party,0.865,0.87,0.939,0.955,-0.07950000000000002,YES auf SIG billiger um 0.069
+Nebraska Senate,Democratic Party,0.085,0.09,,0.008,0.07949999999999999,NO auf SIG billiger um 0.077
+Pennsylvania Governor,Democratic Party,0.895,0.9,0.974,0.978,-0.07850000000000001,YES auf SIG billiger um 0.074
+NY-13 House race,Republican Party,0.1,0.105,0.003,0.047,0.07750000000000001,NO auf SIG billiger um 0.053
+New Hampshire Senate,Republican Party,0.21,0.215,0.13,0.14,0.07749999999999999,NO auf SIG billiger um 0.070
+South Carolina Senate,Republican Party,0.785,0.79,0.86,0.87,-0.0774999999999999,YES auf SIG billiger um 0.070
+New Jersey Senate,Republican Party,0.085,0.09,0.005,0.016,0.077,NO auf SIG billiger um 0.069
+Illinois Senate,Republican Party,0.085,0.09,0.007,0.018,0.075,NO auf SIG billiger um 0.067
+Mississippi Senate,Democratic Party,0.15,0.155,0.074,0.084,0.0735,NO auf SIG billiger um 0.066
+VA-05 House race,Democratic Party,0.275,0.28,0.2,0.21,0.07250000000000001,NO auf SIG billiger um 0.065
+South Carolina Senate,Democratic Party,0.205,0.21,0.13,0.14,0.07249999999999998,NO auf SIG billiger um 0.065
+Minnesota Governor,Republican Party,0.12,0.125,0.046,0.055,0.072,NO auf SIG billiger um 0.065
+NY-13 House race,Democratic Party,0.9,0.905,0.953,0.996,-0.07199999999999984,YES auf SIG billiger um 0.048
+VA-07 House race,Republican Party,0.115,0.12,0.031,0.062,0.071,NO auf SIG billiger um 0.053
+Virginia Senate,Democratic Party,0.91,0.915,0.978,0.989,-0.07099999999999995,YES auf SIG billiger um 0.063
+New York Governor,Democratic Party,0.88,0.885,0.952,0.955,-0.07099999999999995,YES auf SIG billiger um 0.067
+Montana Senate,Republican Party,0.86,0.865,0.919,0.947,-0.07050000000000001,YES auf SIG billiger um 0.054
+TX-28 House race,Democratic Party,0.81,0.82,0.88,0.89,-0.07000000000000006,YES auf SIG billiger um 0.060
+South Dakota Governor,Republican Party,0.9,0.905,0.956,0.989,-0.06999999999999984,YES auf SIG billiger um 0.051
+Arkansas Senate,Republican Party,0.86,0.865,0.931,0.933,-0.0695,YES auf SIG billiger um 0.066
+New Hampshire Governor,Republican Party,0.855,0.86,0.904,0.949,-0.06900000000000006,YES auf SIG billiger um 0.044
+Illinois Governor,Republican Party,0.105,0.11,0.03,0.047,0.069,NO auf SIG billiger um 0.058
+Alaska Senate,Republican Party,0.345,0.35,0.27,0.29,0.06749999999999995,NO auf SIG billiger um 0.055
+Idaho Governor,Democratic Party,0.09,0.1,0.009,0.048,0.0665,NO auf SIG billiger um 0.042
+Alabama Senate,Democratic Party,0.09,0.095,0.016,0.037,0.066,NO auf SIG billiger um 0.053
+South Carolina Governor,Democratic Party,0.115,0.125,0.05,0.059,0.0655,NO auf SIG billiger um 0.056
+Idaho Senate,Democratic Party,0.065,0.075,0.004,0.006,0.065,NO auf SIG billiger um 0.059
+Illinois Governor,Democratic Party,0.89,0.9,0.946,0.972,-0.06399999999999995,YES auf SIG billiger um 0.046
+Michigan Governor,Republican Party,0.125,0.135,0.063,0.07,0.0635,NO auf SIG billiger um 0.055
+New Mexico Senate,Democratic Party,0.915,0.92,0.977,0.985,-0.0635,YES auf SIG billiger um 0.057
+VA-01 House race,Democratic Party,0.525,0.53,0.46,0.47,0.06250000000000011,NO auf SIG billiger um 0.055
+Massachusetts Senate,Republican Party,0.08,0.085,0.018,0.022,0.0625,NO auf SIG billiger um 0.058
+Minnesota Senate,Republican Party,0.195,0.2,0.13,0.14,0.0625,NO auf SIG billiger um 0.055
+Arizona Governor,Republican Party,0.18,0.185,0.11,0.13,0.0625,NO auf SIG billiger um 0.050
+NH-01 House race,Republican Party,0.105,0.11,0.022,0.069,0.062,NO auf SIG billiger um 0.036
+MN-05 House race,Democratic Party,0.915,0.92,0.977,0.981,-0.0615,YES auf SIG billiger um 0.057
+MN-05 House race,Republican Party,0.08,0.085,0.021,0.023,0.060500000000000005,NO auf SIG billiger um 0.057
+California Governor,Republican Party,0.085,0.11,0.034,0.04,0.0605,NO auf SIG billiger um 0.045
+Oklahoma Senate,Republican Party,0.905,0.91,0.964,0.971,-0.06000000000000005,YES auf SIG billiger um 0.054
+PA-07 House race,Republican Party,0.2,0.21,0.14,0.15,0.06,NO auf SIG billiger um 0.050
+North Carolina Senate,Democratic Party,0.89,0.895,0.952,0.953,-0.05999999999999983,YES auf SIG billiger um 0.057
+Georgia Senate,Democratic Party,0.895,0.9,0.954,0.96,-0.0595,YES auf SIG billiger um 0.054
+Kentucky Senate,Democratic Party,0.095,0.1,0.034,0.044,0.0585,NO auf SIG billiger um 0.051
+Florida Senate,Democratic Party,0.17,0.175,0.11,0.12,0.057499999999999996,NO auf SIG billiger um 0.050
+Texas Governor,Republican Party,0.675,0.68,0.73,0.74,-0.057499999999999996,YES auf SIG billiger um 0.050
+MN-02 House race,Republican Party,0.11,0.12,0.05,0.067,0.05649999999999999,NO auf SIG billiger um 0.043
+Alabama Senate,Republican Party,0.905,0.93,0.963,0.984,-0.05600000000000005,YES auf SIG billiger um 0.033
+Colorado Governor,Democratic Party,0.915,0.92,0.973,0.974,-0.05600000000000005,YES auf SIG billiger um 0.053
+Illinois Senate,Democratic Party,0.92,0.93,0.974,0.988,-0.05599999999999994,YES auf SIG billiger um 0.044
+Massachusetts Senate,Democratic Party,0.925,0.93,0.978,0.984,-0.05349999999999999,YES auf SIG billiger um 0.048
+South Dakota Governor,Democratic Party,0.08,0.09,0.01,0.053,0.05349999999999999,NO auf SIG billiger um 0.027
+New Jersey Senate,Democratic Party,0.93,0.935,0.982,0.99,-0.05349999999999988,YES auf SIG billiger um 0.047
+Hawaii Governor,Republican Party,0.08,0.085,0.02,0.039,0.053000000000000005,NO auf SIG billiger um 0.041
+Colorado Governor,Republican Party,0.08,0.09,0.029,0.035,0.05299999999999999,NO auf SIG billiger um 0.045
+Arizona Governor,Democratic Party,0.835,0.84,0.88,0.9,-0.0525000000000001,YES auf SIG billiger um 0.040
+Nevada Governor,Republican Party,0.47,0.475,0.52,0.53,-0.05250000000000005,YES auf SIG billiger um 0.045
+New York Governor,Republican Party,0.1,0.105,0.046,0.054,0.052500000000000005,NO auf SIG billiger um 0.046
+Delaware Senate,Democratic Party,0.935,0.94,0.985,0.995,-0.05249999999999999,YES auf SIG billiger um 0.045
+Colorado Senate,Democratic Party,0.93,0.94,0.984,0.99,-0.051999999999999935,YES auf SIG billiger um 0.044
+Colorado Senate,Republican Party,0.06,0.065,0.01,0.013,0.051000000000000004,NO auf SIG billiger um 0.047
+West Virginia Senate,Democratic Party,0.07,0.08,0.022,0.027,0.05050000000000001,NO auf SIG billiger um 0.043
+Idaho Governor,Republican Party,0.915,0.93,0.96,0.986,-0.05049999999999988,YES auf SIG billiger um 0.030
+WA-03 House race,Democratic Party,0.83,0.84,0.88,0.89,-0.050000000000000044,YES auf SIG billiger um 0.040
+Mississippi Senate,Republican Party,0.855,0.86,0.905,0.909,-0.0495000000000001,YES auf SIG billiger um 0.045
+Oklahoma Governor,Republican Party,0.87,0.875,0.917,0.927,-0.04949999999999999,YES auf SIG billiger um 0.042
+Minnesota Governor,Democratic Party,0.9,0.905,0.947,0.957,-0.04949999999999988,YES auf SIG billiger um 0.042
+California Governor,Democratic Party,0.91,0.92,0.962,0.967,-0.04949999999999988,YES auf SIG billiger um 0.042
+KY-04 House race,Democratic Party,0.09,0.095,0.031,0.057,0.0485,NO auf SIG billiger um 0.033
+Hawaii Governor,Democratic Party,0.92,0.925,0.958,0.984,-0.04849999999999988,YES auf SIG billiger um 0.033
+Florida Senate,Republican Party,0.84,0.855,0.89,0.9,-0.0475000000000001,YES auf SIG billiger um 0.035
+New Hampshire Senate,Democratic Party,0.81,0.815,0.85,0.87,-0.04749999999999999,YES auf SIG billiger um 0.035
+Oregon Senate,Republican Party,0.05,0.055,0.003,0.01,0.046000000000000006,NO auf SIG billiger um 0.040
+Maine Governor,Republican Party,0.095,0.105,0.048,0.06,0.046000000000000006,NO auf SIG billiger um 0.035
+CO-08 House race,Republican Party,0.18,0.19,0.12,0.16,0.044999999999999984,NO auf SIG billiger um 0.020
+Tennessee Governor,Democratic Party,0.11,0.115,0.061,0.075,0.0445,NO auf SIG billiger um 0.035
+VA-05 House race,Republican Party,0.76,0.765,0.8,0.81,-0.04250000000000009,YES auf SIG billiger um 0.035
+CO-08 House race,Democratic Party,0.815,0.82,0.85,0.87,-0.04250000000000009,YES auf SIG billiger um 0.030
+WI-01 House race,Democratic Party,0.39,0.395,0.33,0.37,0.04250000000000004,NO auf SIG billiger um 0.020
+MN-01 House race,Democratic Party,0.27,0.275,0.22,0.24,0.04250000000000004,NO auf SIG billiger um 0.030
+Maryland Governor,Republican Party,0.065,0.07,0.013,0.037,0.04250000000000001,NO auf SIG billiger um 0.028
+Iowa Governor,Republican Party,0.195,0.2,0.15,0.16,0.04250000000000001,NO auf SIG billiger um 0.035
+VA-07 House race,Democratic Party,0.9,0.905,0.933,0.957,-0.04249999999999998,YES auf SIG billiger um 0.028
+AL-02 House race,Democratic Party,0.285,0.29,0.24,0.25,0.04249999999999998,NO auf SIG billiger um 0.035
+PA-07 House race,Democratic Party,0.8,0.805,0.84,0.85,-0.04249999999999998,YES auf SIG billiger um 0.035
+CA-22 House race,Republican Party,0.13,0.135,0.083,0.1,0.04100000000000001,NO auf SIG billiger um 0.030
+TX-28 House race,Republican Party,0.15,0.16,0.11,0.12,0.04000000000000001,NO auf SIG billiger um 0.030
+Kentucky Senate,Republican Party,0.925,0.93,0.957,0.977,-0.03949999999999998,YES auf SIG billiger um 0.027
+Michigan Governor,Democratic Party,0.89,0.895,0.929,0.933,-0.03849999999999998,YES auf SIG billiger um 0.034
+MT-01 House race,Republican Party,0.605,0.61,0.64,0.65,-0.03750000000000009,YES auf SIG billiger um 0.030
+TX-15 House race,Republican Party,0.22,0.225,0.18,0.19,0.037500000000000006,NO auf SIG billiger um 0.030
+WI-03 House race,Republican Party,0.31,0.315,0.27,0.28,0.03749999999999998,NO auf SIG billiger um 0.030
+Wisconsin Governor,Democratic Party,0.755,0.76,0.79,0.8,-0.03749999999999998,YES auf SIG billiger um 0.030
+Nebraska Senate,Republican Party,0.685,0.69,0.72,0.73,-0.03749999999999998,YES auf SIG billiger um 0.030
+CO-03 House race,Democratic Party,0.305,0.31,0.26,0.28,0.03749999999999998,NO auf SIG billiger um 0.025
+AZ-06 House race,Republican Party,0.19,0.195,0.14,0.17,0.03749999999999998,NO auf SIG billiger um 0.020
+Maine Governor,Democratic Party,0.905,0.91,0.94,0.95,-0.03749999999999998,YES auf SIG billiger um 0.030
+KY-04 House race,Republican Party,0.905,0.91,0.927,0.961,-0.03649999999999998,YES auf SIG billiger um 0.017
+Wyoming Governor,Republican Party,0.93,0.935,0.961,0.977,-0.036499999999999866,YES auf SIG billiger um 0.026
+Louisiana Senate,Republican Party,0.905,0.91,0.94,0.946,-0.035499999999999976,YES auf SIG billiger um 0.030
+Florida Governor,Republican Party,0.73,0.735,0.76,0.77,-0.032500000000000084,YES auf SIG billiger um 0.025
+Nevada Governor,Democratic Party,0.505,0.51,0.47,0.48,0.032500000000000084,NO auf SIG billiger um 0.025
+PA-08 House race,Republican Party,0.34,0.345,0.3,0.32,0.03250000000000003,NO auf SIG billiger um 0.020
+TX-15 House race,Democratic Party,0.78,0.785,0.81,0.82,-0.03249999999999997,YES auf SIG billiger um 0.025
+Oregon Governor,Republican Party,0.285,0.29,0.25,0.26,0.03249999999999997,NO auf SIG billiger um 0.025
+Iowa Governor,Democratic Party,0.82,0.825,0.85,0.86,-0.03249999999999997,YES auf SIG billiger um 0.025
+AZ-06 House race,Democratic Party,0.805,0.81,0.83,0.85,-0.03249999999999986,YES auf SIG billiger um 0.020
+Wyoming Governor,Democratic Party,0.06,0.07,0.03,0.038,0.031,NO auf SIG billiger um 0.022
+Oregon Senate,Democratic Party,0.95,0.96,0.978,0.993,-0.030500000000000083,YES auf SIG billiger um 0.018
+CA-22 House race,Democratic Party,0.865,0.88,0.89,0.916,-0.03049999999999997,YES auf SIG billiger um 0.010
+IA-01 House race,Democratic Party,0.81,0.82,0.84,0.85,-0.030000000000000027,YES auf SIG billiger um 0.020
+TN-05 House race,Democratic Party,0.09,0.105,0.04,0.095,0.03,
+MN-02 House race,Democratic Party,0.9,0.905,0.912,0.953,-0.029999999999999916,YES auf SIG billiger um 0.007
+New Mexico Governor,Democratic Party,0.915,0.92,0.942,0.949,-0.028000000000000025,YES auf SIG billiger um 0.022
+MN-01 House race,Republican Party,0.74,0.745,0.76,0.78,-0.02750000000000008,YES auf SIG billiger um 0.015
+FL-13 House race,Republican Party,0.71,0.715,0.73,0.75,-0.02750000000000008,YES auf SIG billiger um 0.015
+AL-02 House race,Republican Party,0.72,0.725,0.74,0.76,-0.02750000000000008,YES auf SIG billiger um 0.015
+Florida Governor,Democratic Party,0.27,0.275,0.24,0.25,0.027500000000000024,NO auf SIG billiger um 0.020
+IA-03 House race,Republican Party,0.26,0.265,0.23,0.24,0.027500000000000024,NO auf SIG billiger um 0.020
+New Mexico Governor,Republican Party,0.08,0.085,0.052,0.058,0.027500000000000004,NO auf SIG billiger um 0.022
+IA-01 House race,Republican Party,0.19,0.195,0.16,0.17,0.027499999999999997,NO auf SIG billiger um 0.020
+Michigan Senate,Democratic Party,0.74,0.745,0.71,0.72,0.02749999999999997,NO auf SIG billiger um 0.020
+Wisconsin Governor,Republican Party,0.23,0.235,0.2,0.21,0.02749999999999997,NO auf SIG billiger um 0.020
+PA-10 House race,Democratic Party,0.765,0.77,0.79,0.8,-0.02749999999999997,YES auf SIG billiger um 0.020
+PA-08 House race,Democratic Party,0.665,0.67,0.69,0.7,-0.02749999999999997,YES auf SIG billiger um 0.020
+IA-03 House race,Democratic Party,0.745,0.75,0.77,0.78,-0.02749999999999997,YES auf SIG billiger um 0.020
+Texas Governor,Democratic Party,0.29,0.295,0.26,0.27,0.02749999999999997,NO auf SIG billiger um 0.020
+Georgia Governor,Republican Party,0.505,0.51,0.53,0.54,-0.02749999999999997,YES auf SIG billiger um 0.020
+FL-07 House race,Republican Party,0.65,0.655,0.67,0.69,-0.027499999999999858,YES auf SIG billiger um 0.015
+NH-01 House race,Democratic Party,0.905,0.91,0.915,0.954,-0.027000000000000024,YES auf SIG billiger um 0.005
+NE-02 House race,Democratic Party,0.89,0.895,0.917,0.922,-0.026999999999999913,YES auf SIG billiger um 0.022
+Maryland Governor,Democratic Party,0.94,0.945,0.96,0.977,-0.026000000000000023,YES auf SIG billiger um 0.015
+PA-01 House race,Republican Party,0.655,0.665,0.63,0.64,0.025000000000000022,NO auf SIG billiger um 0.015
+ME-02 House race,Democratic Party,0.365,0.375,0.34,0.35,0.025000000000000022,NO auf SIG billiger um 0.015
+PA-10 House race,Republican Party,0.22,0.23,0.19,0.21,0.024999999999999994,NO auf SIG billiger um 0.010
+Alaska Senate,Democratic Party,0.7,0.705,0.72,0.73,-0.022500000000000075,YES auf SIG billiger um 0.015
+Georgia Governor,Democratic Party,0.495,0.5,0.47,0.48,0.02250000000000002,NO auf SIG billiger um 0.015
+CA-48 House race,Republican Party,0.11,0.12,0.075,0.11,0.022499999999999992,
+FL-13 House race,Democratic Party,0.295,0.3,0.27,0.28,0.022499999999999964,NO auf SIG billiger um 0.015
+TX-23 House race,Republican Party,0.645,0.65,0.62,0.63,0.022499999999999964,NO auf SIG billiger um 0.015
+CO-04 House race,Republican Party,0.695,0.7,0.67,0.68,0.022499999999999964,NO auf SIG billiger um 0.015
+Oregon Governor,Democratic Party,0.72,0.73,0.74,0.75,-0.020000000000000018,YES auf SIG billiger um 0.010
+Nebraska Governor,Democratic Party,0.11,0.115,0.086,0.099,0.020000000000000004,NO auf SIG billiger um 0.011
+South Dakota Senate,Republican Party,0.94,0.945,0.911,0.935,0.01949999999999985,NO auf SIG billiger um 0.005
+TN-05 House race,Republican Party,0.89,0.895,0.908,0.915,-0.018999999999999906,YES auf SIG billiger um 0.013
+ME-02 House race,Republican Party,0.625,0.63,0.64,0.65,-0.01750000000000007,YES auf SIG billiger um 0.010
+Kansas Senate,Democratic Party,0.36,0.365,0.34,0.35,0.017500000000000016,NO auf SIG billiger um 0.010
+Texas Senate,Republican Party,0.345,0.35,0.36,0.37,-0.017500000000000016,YES auf SIG billiger um 0.010
+Iowa Senate,Democratic Party,0.455,0.46,0.43,0.45,0.017500000000000016,NO auf SIG billiger um 0.005
+PA-01 House race,Democratic Party,0.345,0.35,0.36,0.37,-0.017500000000000016,YES auf SIG billiger um 0.010
+MT-01 House race,Democratic Party,0.36,0.365,0.34,0.35,0.017500000000000016,NO auf SIG billiger um 0.010
+FL-22 House race,Democratic Party,0.56,0.565,0.54,0.55,0.01749999999999996,NO auf SIG billiger um 0.010
+Vermont Governor,Republican Party,0.77,0.775,0.75,0.76,0.01749999999999996,NO auf SIG billiger um 0.010
+IA-02 House race,Democratic Party,0.535,0.54,0.55,0.56,-0.01749999999999996,YES auf SIG billiger um 0.010
+Alabama Governor,Democratic Party,0.095,0.1,0.078,0.083,0.017,NO auf SIG billiger um 0.012
+NE-02 House race,Republican Party,0.09,0.095,0.067,0.084,0.016999999999999987,NO auf SIG billiger um 0.006
+CA-48 House race,Democratic Party,0.885,0.89,0.89,0.917,-0.016000000000000014,
+Tennessee Senate,Republican Party,0.91,0.915,0.913,0.943,-0.015499999999999847,
+FL-16 House race,Republican Party,0.84,0.85,0.82,0.84,0.015000000000000013,
+SC-01 House race,Democratic Party,0.305,0.315,0.28,0.31,0.014999999999999958,
+Tennessee Senate,Democratic Party,0.08,0.085,0.062,0.074,0.014499999999999999,NO auf SIG billiger um 0.006
+Alabama Governor,Republican Party,0.91,0.915,0.925,0.928,-0.014000000000000012,YES auf SIG billiger um 0.010
+Nebraska Governor,Republican Party,0.885,0.89,0.89,0.91,-0.012500000000000067,
+FL-07 House race,Democratic Party,0.34,0.345,0.32,0.34,0.012500000000000011,
+Kansas Governor,Democratic Party,0.265,0.27,0.27,0.29,-0.012500000000000011,
+NY-17 House race,Republican Party,0.35,0.355,0.36,0.37,-0.012500000000000011,YES auf SIG billiger um 0.005
+Minnesota Senate,Democratic Party,0.84,0.845,0.85,0.86,-0.012499999999999956,YES auf SIG billiger um 0.005
+Michigan Senate,Republican Party,0.29,0.295,0.27,0.29,0.012499999999999956,
+WI-03 House race,Democratic Party,0.715,0.72,0.72,0.74,-0.012499999999999956,
+MI-07 House race,Republican Party,0.42,0.425,0.4,0.42,0.012499999999999956,
+FL-09 House race,Republican Party,0.72,0.725,0.7,0.72,0.012499999999999956,
+Kansas Governor,Republican Party,0.73,0.735,0.71,0.73,0.012499999999999956,
+SC-01 House race,Republican Party,0.675,0.68,0.68,0.7,-0.012499999999999956,
+NY-17 House race,Democratic Party,0.655,0.66,0.64,0.65,0.012499999999999956,NO auf SIG billiger um 0.005
+Kansas Senate,Republican Party,0.66,0.665,0.65,0.66,0.007500000000000062,
+Texas Senate,Democratic Party,0.64,0.645,0.63,0.64,0.007500000000000062,
+Maine Senate,Democratic Party,0.59,0.595,0.58,0.59,0.007500000000000062,
+VA-02 House race,Republican Party,0.19,0.195,0.18,0.19,0.007500000000000007,
+FL-22 House race,Republican Party,0.47,0.475,0.46,0.47,0.007500000000000007,
+Vermont Governor,Democratic Party,0.235,0.24,0.24,0.25,-0.007500000000000007,
+TX-23 House race,Democratic Party,0.365,0.37,0.36,0.39,-0.007500000000000007,
+NJ-07 House race,Republican Party,0.12,0.125,0.11,0.12,0.007500000000000007,
+IA-02 House race,Republican Party,0.455,0.46,0.44,0.46,0.007500000000000007,
+CO-04 House race,Democratic Party,0.3,0.305,0.3,0.32,-0.007500000000000007,
+AZ-01 House race,Republican Party,0.205,0.21,0.21,0.22,-0.007500000000000007,
+VA-01 House race,Republican Party,0.505,0.51,0.51,0.52,-0.007499999999999951,
+MI-10 House race,Democratic Party,0.665,0.67,0.65,0.67,0.007499999999999951,
+FL-09 House race,Democratic Party,0.29,0.295,0.28,0.29,0.007499999999999951,
+VA-02 House race,Democratic Party,0.805,0.81,0.81,0.82,-0.00749999999999984,
+WI-01 House race,Republican Party,0.645,0.655,0.63,0.66,0.0050000000000000044,
+MI-10 House race,Republican Party,0.335,0.345,0.32,0.35,0.0050000000000000044,
+MI-07 House race,Democratic Party,0.585,0.595,0.59,0.6,-0.0050000000000000044,
+Iowa Senate,Republican Party,0.555,0.56,0.55,0.56,0.0025000000000000577,
+CO-03 House race,Republican Party,0.705,0.71,0.7,0.71,0.0025000000000000577,
+AZ-01 House race,Democratic Party,0.785,0.79,0.78,0.79,0.0025000000000000577,
+FL-16 House race,Democratic Party,0.165,0.17,0.15,0.18,0.00250000000000003,
+Maine Senate,Republican Party,0.415,0.42,0.41,0.42,0.0025000000000000022,
+NJ-07 House race,Democratic Party,0.875,0.88,0.87,0.88,0.0024999999999999467,
+Idaho Senate,Republican Party,0.925,0.93,0.928,0.929,-0.001000000000000112,

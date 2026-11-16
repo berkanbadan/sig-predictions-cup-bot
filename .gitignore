@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+KILL
+kalshi_events.json
+EPRtest.py
